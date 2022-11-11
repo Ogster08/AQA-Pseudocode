@@ -1,0 +1,15 @@
+C:\Users\otate\OneDrive - High Storrs School\repos\AQA-Pseudocode\AQA-Pseudocode\AQA-Pseudocode\bin\Debug\net6.0\AQA-Pseudocode.exe
+C:\Users\otate\OneDrive - High Storrs School\repos\AQA-Pseudocode\AQA-Pseudocode\AQA-Pseudocode\bin\Debug\net6.0\AQA-Pseudocode.deps.json
+C:\Users\otate\OneDrive - High Storrs School\repos\AQA-Pseudocode\AQA-Pseudocode\AQA-Pseudocode\bin\Debug\net6.0\AQA-Pseudocode.runtimeconfig.json
+C:\Users\otate\OneDrive - High Storrs School\repos\AQA-Pseudocode\AQA-Pseudocode\AQA-Pseudocode\bin\Debug\net6.0\AQA-Pseudocode.dll
+C:\Users\otate\OneDrive - High Storrs School\repos\AQA-Pseudocode\AQA-Pseudocode\AQA-Pseudocode\bin\Debug\net6.0\AQA-Pseudocode.pdb
+C:\Users\otate\OneDrive - High Storrs School\repos\AQA-Pseudocode\AQA-Pseudocode\AQA-Pseudocode\obj\Debug\net6.0\AQA-Pseudocode.csproj.AssemblyReference.cache
+C:\Users\otate\OneDrive - High Storrs School\repos\AQA-Pseudocode\AQA-Pseudocode\AQA-Pseudocode\obj\Debug\net6.0\AQA-Pseudocode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\otate\OneDrive - High Storrs School\repos\AQA-Pseudocode\AQA-Pseudocode\AQA-Pseudocode\obj\Debug\net6.0\AQA-Pseudocode.AssemblyInfoInputs.cache
+C:\Users\otate\OneDrive - High Storrs School\repos\AQA-Pseudocode\AQA-Pseudocode\AQA-Pseudocode\obj\Debug\net6.0\AQA-Pseudocode.AssemblyInfo.cs
+C:\Users\otate\OneDrive - High Storrs School\repos\AQA-Pseudocode\AQA-Pseudocode\AQA-Pseudocode\obj\Debug\net6.0\AQA-Pseudocode.csproj.CoreCompileInputs.cache
+C:\Users\otate\OneDrive - High Storrs School\repos\AQA-Pseudocode\AQA-Pseudocode\AQA-Pseudocode\obj\Debug\net6.0\AQA-Pseudocode.dll
+C:\Users\otate\OneDrive - High Storrs School\repos\AQA-Pseudocode\AQA-Pseudocode\AQA-Pseudocode\obj\Debug\net6.0\refint\AQA-Pseudocode.dll
+C:\Users\otate\OneDrive - High Storrs School\repos\AQA-Pseudocode\AQA-Pseudocode\AQA-Pseudocode\obj\Debug\net6.0\AQA-Pseudocode.pdb
+C:\Users\otate\OneDrive - High Storrs School\repos\AQA-Pseudocode\AQA-Pseudocode\AQA-Pseudocode\obj\Debug\net6.0\AQA-Pseudocode.genruntimeconfig.cache
+C:\Users\otate\OneDrive - High Storrs School\repos\AQA-Pseudocode\AQA-Pseudocode\AQA-Pseudocode\obj\Debug\net6.0\ref\AQA-Pseudocode.dll
